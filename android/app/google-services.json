@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59583888365",
+    "project_id": "campus-hire-26",
+    "storage_bucket": "campus-hire-26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59583888365:android:e14cfa1dfe5ca5fb0485e4",
+        "android_client_info": {
+          "package_name": "com.example.campus_hire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnDjpNmdUC2qDyxoVY4MjzgtS8JL3GZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
